@@ -1,0 +1,35 @@
+{
+  "name": "44js-blog",
+  "version": "1.0.0",
+  "description": "44期前后台一起包括的发表评论后台管理",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hehejie1/44js-blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hehejie1/44js-blog/issues"
+  },
+  "homepage": "https://github.com/Hehejie1/44js-blog#readme",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "koa": "^2.5.2",
+    "koa-body": "^4.0.4",
+    "koa-compress": "^3.0.0",
+    "koa-logger": "^3.2.0",
+    "koa-multer": "^1.0.2",
+    "koa-router": "^7.4.0",
+    "koa-session": "^5.9.0",
+    "koa-static": "^5.0.0",
+    "koa-views": "^6.1.4",
+    "mongoose": "^5.2.13",
+    "node-windows": "^0.1.14",
+    "pug": "^2.0.3"
+  }
+}
